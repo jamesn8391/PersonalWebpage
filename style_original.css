@@ -1,0 +1,244 @@
+.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #273746;
+    top: 0px;
+    border: 1px solid white;
+}
+
+.topnav-link {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+}
+
+button{
+  background-color: #273746;
+  color: white;
+  border: 0px;
+}
+
+.howdy_text{
+  padding-left: 12vw;
+  font-size: large;
+}
+li{
+  float: left;
+  border-right: 1px solid white;
+}
+
+body{
+  margin: 0px;
+  background-color: #333;
+}
+
+h1{
+  color: moccasin;
+}
+
+h2{
+  color: moccasin;
+}
+
+.main_text{
+  color: #C9CDD1;
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+.Links{
+  color: moccasin;
+}
+
+.tamu_logo_container img{
+  max-width: 60%;
+  padding-left: 5%;
+}
+
+.index_text_container {
+  max-width: 70%;
+  text-align: center;
+  padding-bottom: 10%;
+}
+
+.index_inside_left{
+  width: 50%;
+  float: left;
+}
+
+.index_inside_right{
+  width: 50%;
+  float: right;
+  padding: 10px;
+  position: relative;
+  justify-content: bottom;
+  bottom: 20vh;
+}
+
+.index_portrait{
+  width: 10%;
+  float: right;
+  padding: 20px;
+  position: relative;
+  right: 25%;
+}
+
+.img_index_portrait{
+  width: 20vw;
+  height: 40vh;
+  float: right;
+}
+
+.RideLinkImage{
+  max-width: 25%;
+  max-height: 25%;
+}
+
+.qualifications_left{
+  width: 50%;
+  float: left;
+}
+
+.qualifications_right{
+  width: 50%;
+  float: right;
+}
+
+.resume_image{
+  max-height: 50%;
+}
+
+.personal_links{
+  font-size: large;
+  color: moccasin;
+  padding-bottom: 50px;
+}
+
+h3{
+  color: moccasin;
+}
+
+.main_qualifications{
+    color: #C9CDD1;
+    padding-right: 4%;
+    text-align: center;
+}
+
+.topnav_button{
+  display: block;
+  color: black;
+  text-align: center;
+  padding: 20px 30px;
+  text-decoration: none;
+  cursor: pointer;
+  border: 0px;
+}
+
+.portfolio_header{
+  padding-left: 5px;
+  padding-right: 10px;
+}
+
+.index_change_style{
+  overflow: hidden;
+  background-color: #273746;
+  border: 1px solid white;
+  color: white;
+  height: 5vh;
+  width: 10vw;
+  font-size: large;
+}
+
+.index_change_style:hover{
+  background-color: gray;
+  cursor: pointer;
+}
+
+.service_text{
+  color: ivory;
+  padding-left: 8%;
+  padding-right: 8%;
+  text-align: center;
+  font-size: 18px;
+}
+
+.service_food_bank_header{
+  text-align: center;
+}
+
+.service_links{
+  color: moccasin;
+  padding-left: 1%;
+  padding-right: 1%;
+  text-align: center;
+  font-size: 20px;
+}
+
+.service_alignment{
+  text-align: center;
+  border: 1px solid darkolivegreen;
+  margin-top: 15vh;
+  max-width: 75vw;
+  align-items: center;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  background-color:slategray;
+}
+
+.index_logo{
+  content:url("./tamu-logo.png");
+}
+
+.blog-container {
+  width: 80%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.blog-header {
+  font-size: 36px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.blog-post {
+  margin-bottom: 50px;
+}
+
+.blog-post-title {
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 20px;
+}
+
+.blog-post-date {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 20px;
+}
+
+.blog-post-text {
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.blog-post-link {
+  font-size: 18px;
+  color: blue;
+  text-decoration: underline;
+}
+
+.ai_to_home{
+  align-items: center;
+  justify-content: center;
+  padding-left: 46vw;
+  font-size: 20px;
+  color: moccasin;
+}
